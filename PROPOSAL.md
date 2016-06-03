@@ -92,17 +92,10 @@ Simple Titlecase Mapping |
 
 
 ### 7 Drawing the Symbols
-The proposed characters are not part of any script and the precise form of their
-drawing is not critical. As IEEE 1621-2004 says:
-In accordance with IEC 80416-3, symbols can be filled, be rotated,
-have their lines thickened, or be used on digital displays, as long as
-an ordinary user can recognize the symbol correctly.
-[4, §4.3]. There is no need to mirror any of the symbols for right-to-left scripts.
+
 
 ### 7.1 Severability
-Of all the characters in Table 6, the most needed is ⏻. We included the others
-in this proposal because they form a logical group. If, however, there is any
-objection to inclusion of ⏽, ⭘, ⏼, or 🌭, the one we most need is ⏻.
+
 
 ### 8 Sponsors
 
