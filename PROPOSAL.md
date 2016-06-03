@@ -1,7 +1,10 @@
 # Proposal to Include Spabs
 Leo Bartkus (leo.bartkus@gmail.com)
+
 Justin Chase (justin.m.chase@gmail.com)
+
 2nd June 2016
+
 
 ## Abstract
 There is a debate between the relative merits of spaces and tabs in software coding languages. 
